@@ -19,3 +19,11 @@
 02_activities/assignments/best_model/
 02_activities/assignments/*.zip
 02_activities/assignments/*.txt
+02_activities/assignments/data/FashionMNIST/raw/t10k-images-idx3-ubyte
+02_activities/assignments/data/FashionMNIST/raw/t10k-images-idx3-ubyte.gz
+02_activities/assignments/data/FashionMNIST/raw/t10k-labels-idx1-ubyte
+02_activities/assignments/data/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz
+02_activities/assignments/data/FashionMNIST/raw/train-images-idx3-ubyte
+02_activities/assignments/data/FashionMNIST/raw/train-images-idx3-ubyte.gz
+02_activities/assignments/data/FashionMNIST/raw/train-labels-idx1-ubyte
+02_activities/assignments/data/FashionMNIST/raw/train-labels-idx1-ubyte.gz
